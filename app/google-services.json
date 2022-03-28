@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602622700802",
+    "firebase_url": "https://kotlinproject-liketinder-default-rtdb.firebaseio.com",
+    "project_id": "kotlinproject-liketinder",
+    "storage_bucket": "kotlinproject-liketinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602622700802:android:0f59e77cbc41646a3de61b",
+        "android_client_info": {
+          "package_name": "com.example.kotlinproj_liketinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602622700802-bqd3u7if685r7rc2fnuhsmddueic5umc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpp9dtd6oOGCrcVKlsaqkVTARfXNAILmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602622700802-bqd3u7if685r7rc2fnuhsmddueic5umc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
